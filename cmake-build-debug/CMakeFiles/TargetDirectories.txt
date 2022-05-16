@@ -1,0 +1,3 @@
+/home/stepan/Yandex.Disk/Documents/homeProjects/cellularAutomaton/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/stepan/Yandex.Disk/Documents/homeProjects/cellularAutomaton/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/stepan/Yandex.Disk/Documents/homeProjects/cellularAutomaton/cmake-build-debug/CMakeFiles/cellularAutomaton.dir
